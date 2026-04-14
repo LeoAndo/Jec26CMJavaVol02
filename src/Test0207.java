@@ -3,6 +3,6 @@ public class Test0207 {
         System.out.println(123.4);
         System.out.println(123.4F);
         System.out.println(123.4d);
-        // System.out.println(123.4L); // コンパイルエラー Lがつくとlong型は整数リテラルになるので.
+        System.out.println(123.4L); // コンパイルエラー Lがつくとlong型は整数リテラルになるので.
     }
 }
