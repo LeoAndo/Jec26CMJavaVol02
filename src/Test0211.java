@@ -6,6 +6,6 @@ public class Test0211 {
     /*
     実行結果:
     true
-    alse
+    false
     */
 }
